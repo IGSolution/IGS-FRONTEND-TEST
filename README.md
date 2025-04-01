@@ -63,6 +63,31 @@ Tailwind CSS or Styled Components (for styling)
 
 
 
+DevOps Engineer Test: Chowdeck Deployment & CI/CD
+
+Objective: Set up a scalable infrastructure for the Chowdeck backend API.
+Duration: 5 days
+Requirements:
+1. Infrastructure Setup
+	•	Deploy the Chowdeck backend API to AWS/GCP/Azure using Terraform or CloudFormation.
+	•	Use Docker & Kubernetes for container orchestration.
+	•	Set up a PostgreSQL database (managed or self-hosted).
+2. CI/CD Pipeline
+	•	Implement GitHub Actions/GitLab CI/CD to automate testing and deployment.
+	•	Deploy the API to staging and production environments.
+3. Monitoring & Logging
+	•	Integrate Prometheus & Grafana for API performance monitoring.
+	•	Set up ELK Stack (Elasticsearch, Logstash, Kibana) or CloudWatch for logging.
+4. Security & Performance
+	•	Implement rate limiting (Redis or Nginx) to prevent abuse.
+	•	Secure APIs with SSL/TLS and environment variable management.
+Submission:
+	•	Provide GitHub repo with Terraform/Docker/K8s configs.
+	•	Include a detailed README with deployment instructions.
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
