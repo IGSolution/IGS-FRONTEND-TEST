@@ -1,3 +1,68 @@
+
+React Native Developer Test: Chowdeck Clone
+
+Objective
+
+Build a minimal version of the Chowdeck app with core functionalities to evaluate your skills in React Native, UI implementation, API integration, and state management.
+
+Duration: 5 days
+
+Requirements
+
+1. Home Screen
+
+Display a list of restaurants with images, names, and ratings.
+
+Implement a horizontal category filter (e.g., “Burgers,” “Pizza,” “Drinks”).
+
+Clicking a restaurant should navigate to the Restaurant Details screen.
+
+2. Restaurant Details Screen
+
+Display restaurant details: name, image, rating, and menu items.
+
+Allow users to add items to the cart.
+
+3. Cart Screen
+
+Show added items with quantity selection.
+
+Display total price and a checkout button.
+
+4. Order Confirmation Screen
+
+After checkout, show an order confirmation screen with estimated delivery time.
+
+5. Backend Integration (Optional)
+
+Use a mock API (e.g., JSON Server or Firebase).
+
+Fetch restaurant and menu data.
+
+6. Extra Features (Bonus)
+
+Implement user authentication (Google sign-in).
+
+Store cart data using AsyncStorage.
+
+Add animations (e.g., loading skeletons or transitions).
+
+Tech Stack
+
+React Native (Expo or CLI)
+
+TypeScript
+
+React Navigation
+
+Redux Toolkit / Context API (for state management)
+
+Axios / Fetch API (for API calls)
+
+Tailwind CSS or Styled Components (for styling)
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
