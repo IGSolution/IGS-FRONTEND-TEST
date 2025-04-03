@@ -3,8 +3,5 @@
   "displayName": "frontendtest",
   "android": {
     "package": "com.anonymous.frontendtest"
-  },
-  "expo": {
-    "entryPoint": "index.js"
   }
 }
