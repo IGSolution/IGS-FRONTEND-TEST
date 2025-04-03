@@ -1,4 +1,7 @@
 {
   "name": "frontendtest",
-  "displayName": "frontendtest"
+  "displayName": "frontendtest",
+  "android": {
+    "package": "com.anonymous.frontendtest"
+  }
 }
