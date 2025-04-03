@@ -1,4 +1,4 @@
-package com.frontendtest
+package com.anonymous.frontendtest
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
